@@ -1,4 +1,4 @@
-package test
+package sample
 
 class Logger {
   var _mode : String as Mode

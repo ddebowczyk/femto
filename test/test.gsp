@@ -1,11 +1,11 @@
-classpath "../src"
+classpath "../src,../test"
 
 uses femto.Container
 uses femto.Component
 
-uses test.Logger
-uses test.Api
-uses test.Client
+uses sample.Logger
+uses sample.Api
+uses sample.Client
 
 var c = new Container()
 

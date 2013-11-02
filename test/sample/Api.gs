@@ -1,4 +1,4 @@
-package test
+package sample
 
 class Api {
   var _logger : Logger as Logger
