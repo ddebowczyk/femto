@@ -6,6 +6,7 @@ Tiny IoC container, makes it easier to manage dependencies in your Gosu app
 Features
 --------
  - makes wiring of Gosu scripts cleaner
+ - cyclic dependency detection
  - some type safety (see below)
  - useful for small standalone Gosu apps / scripts
  - er, (probably) not thread safe (yet)
